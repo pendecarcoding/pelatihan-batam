@@ -1,1 +1,1 @@
-TEST
+Berikut adalah pengenalan cara penggunaan git pada github
